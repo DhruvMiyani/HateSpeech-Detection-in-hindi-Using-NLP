@@ -1,8 +1,7 @@
 # HateSpeech-Detection-in-hindi-Using-NLP
 
 ## Introduction
-
-These platform expand new horizon for people to express their views globally. Now, free speech over internet taking shape as new fundamental right.With the increase in user generated content on social media sites ,hate speech is now biggest concern.
+Social media platform such as twitter and facebook have expanded new horizon for people to express their views globally. Now, free speech over internet taking shape as new fundamental right.With the increase in user generated content on social media sites ,hate speech is now biggest concern.
  
 So it became huge responsibility for the government and these sites to identify hate content before it disseminates to mass.India being culturally diverse and multilingual country where 44% of the Indian population speak Hindi. Very large number o Users Use Hindi language in social media.
 Our model detect hate speech and non-hate speech text using natural language processing.
