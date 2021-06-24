@@ -13,3 +13,8 @@ https://docs.google.com/spreadsheets/d/1xPHRnhcn-t_aCPhEiR_7-zNq_uxfHaxuWHvpHNdH
 
 ![image](https://user-images.githubusercontent.com/54111873/118352541-a47c0f80-b57f-11eb-81d3-c69393cb3b1b.png)
 
+## Performnace metrics
+
+![image](https://user-images.githubusercontent.com/54111873/123213334-83de9800-d4e3-11eb-8c93-6293d574f529.png)
+
+
